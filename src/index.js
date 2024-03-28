@@ -3,10 +3,10 @@ import {createRoot} from "react-dom/client";
 import "./styles/index.scss";
 import App from "./App";
 // used for Roboto font installation from https://mui.com/material-ui/getting-started/installation/
-import '@fontsource/roboto/300.css';
-import '@fontsource/roboto/400.css';
-import '@fontsource/roboto/500.css';
-import '@fontsource/roboto/700.css';
+import "@fontsource/roboto/300.css";
+import "@fontsource/roboto/400.css";
+import "@fontsource/roboto/500.css";
+import "@fontsource/roboto/700.css";
 
 
 /**
