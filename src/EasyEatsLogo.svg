@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 395.85 126.26">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .21em;
+      }
+
+      .cls-2 {
+        letter-spacing: .2em;
+      }
+
+      .cls-3 {
+        font-size: 100px;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #707070;
+        font-family: Futura-Medium, Futura;
+        font-weight: 500;
+      }
+
+      .cls-6 {
+        letter-spacing: .19em;
+      }
+
+      .cls-5 {
+        font-size: 18px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2-2" data-name="Layer 2">
+    <g id="EasyEats" class="cls-4">
+      <text class="cls-3" transform="translate(0 88.06)"><tspan x="0" y="0">EasyEats</tspan></text>
+    </g>
+    <g id="shared_plate" data-name="shared plate" class="cls-4">
+      <text class="cls-5" transform="translate(251 121.06)"><tspan class="cls-2" x="0" y="0">sha</tspan><tspan class="cls-6" x="38.77" y="0">r</tspan><tspan class="cls-2" x="48.98" y="0">ed pla</tspan><tspan class="cls-1" x="122.95" y="0">t</tspan><tspan class="cls-2" x="131.63" y="0">e</tspan></text>
+    </g>
+  </g>
+</svg>
