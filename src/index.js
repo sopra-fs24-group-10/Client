@@ -2,6 +2,12 @@ import React from "react";
 import {createRoot} from "react-dom/client";
 import "./styles/index.scss";
 import App from "./App";
+// used for Roboto font installation from https://mui.com/material-ui/getting-started/installation/
+import '@fontsource/roboto/300.css';
+import '@fontsource/roboto/400.css';
+import '@fontsource/roboto/500.css';
+import '@fontsource/roboto/700.css';
+
 
 /**
  * This is the entry point of your React application where the root element is in the public/index.html.
